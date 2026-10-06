@@ -1,0 +1,1 @@
+{"stages":[{"id":"2","name":"System Generated","children":[],"state":"success","type":"PIPELINE_START","title":"System Generated","isSequential":false,"synthetic":true,"placeholder":true,"pauseDurationMillis":0,"totalDurationMillis":413,"startTimeMillis":1791254503470,"url":"/job/devops/1/stages/?selected-node=2"}],"complete":true}
